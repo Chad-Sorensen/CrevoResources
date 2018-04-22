@@ -30,13 +30,13 @@
   Object Type: Really Big Ball  
   Popular Mechanisms: Catupult  
   Notable Robots:  
-  ..*254: It's just really cool  
+  * 254: It's just really cool  
 
 **Ultimate Ascent (2013)**  
   Object Type: Frisbee  
   Popular Mechanisms: Shooters, Tiered Hanger  
   Notable Robots:  
-  ..*2851: Its a hexagon?!  
+  * 2851: Its a hexagon?!  
     
 **Rebound Rumble (2012)**  
   Object Type: Ball  
@@ -50,8 +50,9 @@
   Object Type: Soccer Balls  
   Popular Mechanisms: Kickers  
   Notable Robots:  
-  ..*2851: Triangle Wheels?! What the heck!  
+  * 2851: Triangle Wheels?! What the heck!  
   
 **Lunacy (2009)**  
   Object Type: Balls  
   Popular Mechanism: Intakes, Archimedes Screw  
+  Our Rookie Year!  
