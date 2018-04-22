@@ -11,8 +11,8 @@
   Object Type: Cube  
   Popular Mechanisms: Lifts (Elevator, 4 bar, ect)  
   Notable Robots:  
-  ..* 254 (Lockdown): With an undefeated season, 254 claimed victory at Worlds (Houston)  
-  ..* 148 (Uppercut): Winning alliance worlds (Houston)  
+  * 254 (Lockdown): With an undefeated season, 254 claimed victory at Worlds (Houston)  
+  * 148 (Uppercut): Winning alliance worlds (Houston)  
     
 **Steamworks (2017)**   
   Object Type: Ball/Gear  
