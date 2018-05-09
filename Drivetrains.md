@@ -7,6 +7,8 @@ by driving the left side in one direction and the right side in the other. The d
 **H-Drive**  
 This drivetrain is essentially a tank drive with an omni-wheel in the middle, perpendicular to the rest of the wheels (it should be noted that all wheels are omni). This center wheel is used to allow the robot to strafe. Due to the drivetrain consisting of all omni wheels, it has no pushing power.
 
+**Mechanum** Most common omni directional drive train, uses 4 Mechanum wheels, one in each corner of the bot, and each wheels has rollers on 45 degree angles, when spun the correct way cuases the robot to strafe
+
 **Butterfly Drive**  
 A general term for any drivetrain that switches between two different modes. A common configuration is tank and H.
 
@@ -15,3 +17,6 @@ A drivetrain consisting of 3 to 4 wheel hubs which can rotate 360 degrees allowi
 
 **Boat Drive**  
 Well untested in the frc environment, this drive train consists of a propeler and a rudder which will propel and manuver the robot through the water. Even though no game so far has required this drive train, we will be ready when one does.
+
+**Jet Ski Drive**
+Similar to Boat drive but is much faster, more manueverable and much lighter
